@@ -1,0 +1,9 @@
+gymnasium
+dm_tree
+wandb
+rasterio
+opencv-python==4.10.0.84
+scikit-learn
+ray[tune]
+tqdm
+matplotlib
